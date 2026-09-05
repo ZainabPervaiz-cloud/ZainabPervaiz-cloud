@@ -47,9 +47,15 @@ diagnostic AI, and prepping for PhD applications in the same space.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 📄 Publications & IP
-- **[Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging](https://doi.org/10.1109/ACCESS.2026.3691800)** — IEEE Access, vol. 14, 2026. First author. 84.6% precision, 90% recall, 0.839 Dice on a novel 9,330-image, 3-hospital CT dataset.
-- IP Application: *Deep Learning Application for Breast Cancer Diagnosis and Classification* (Reg. No. 58897-Copr., 2026)
-- 4 more papers in review/submission across clinical ML and imaging
+- **[Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging](https://doi.org/10.1109/ACCESS.2026.3691800)** (IEEE Access, vol. 14, 2026). First author. 84.6% precision, 90% recall, 0.839 Dice on a novel 9,330-image, 3-hospital CT dataset.
+- Registered Copyright: *TumorDetect.AI, an AI-based Intelligent Breast Tumor Detection Platform* (Reg. No. 58897-Copr., IPO Pakistan, 2026), registered to NUST's Center for Innovation and Entrepreneurship
+
+**Also co-authored (submitted / in review):**
+- *TabPFN as a Clinical Prediction Tool: A Comprehensive Multi-Dimensional Benchmark Across 15 Clinical Datasets* (submitted, JAIR)
+- *Hybrid Deep Learning Architecture for Accurate Classification of Respiratory Conditions Using Chest X-rays: Combining CSPDarknet and ResNet50* (manuscript in review)
+- *Deep Learning for Nonlinear Dynamical Systems* (in review, Journal of Computational Intelligence and Dynamical Modeling)
+- *Underwater Debris Detection and Classification Using Deep Learning Models* (internal review)
+- *Targeted Anticancer Potential of Sulfathiazole-Based Nickel Complexes: Structure-Activity Relationship and Molecular Docking Perspectives* (camera-ready, submitted)
 
 #### 📫 Reach me
 📧 zainabpervaiz1999@gmail.com
