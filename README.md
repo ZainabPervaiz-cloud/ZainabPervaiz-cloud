@@ -1,15 +1,15 @@
 ### Hi, I'm Zainab 👋
 
-I build AI systems for medical imaging — mostly breast cancer detection from CT
-scans and mammograms — and lately I've been building full products too, not just
-models in notebooks.
+I build AI systems for medical imaging, mostly breast cancer detection from CT
+scans and mammograms, and lately I've been building full products too, not
+just models in notebooks.
 
 Currently an **AI Developer at Xylexa Inc.**, working on trustworthy diagnostic
 AI for radiological analysis. Before that, I was a Research Assistant at NUST's
 Computational Drug Design Lab, where a lot of the work below started.
 
-**🔬 What I actually do:** deep learning for medical imaging — CNNs, YOLO-based
-segmentation, explainable AI — plus the less glamorous half of the job: data
+**🔬 What I actually do:** deep learning for medical imaging (CNNs, YOLO-based
+segmentation, explainable AI), plus the less glamorous half of the job: data
 pipelines, preprocessing, and getting a model from a notebook into something
 that actually deploys.
 
@@ -19,22 +19,24 @@ that actually deploys.
 
 **[breast-cancer-ct-yolov11](https://github.com/ZainabPervaiz-cloud/breast-cancer-ct-yolov11)**
 Real-time deep learning framework (YOLOv11-Seg) for breast tumor detection,
-localization, and stage classification from CT imaging. This is the work behind
-my IEEE Access paper and a filed IP application.
+localization, and stage classification from CT imaging. First-author work
+published in IEEE Access, built on a 9,330-image dataset (first South Asian
+breast CT dataset) I helped collect across 3 Pakistani hospitals. 84.6%
+precision, 90% recall.
 
 **[moneytrail](https://github.com/ZainabPervaiz-cloud/moneytrail)**
-A personal finance tracker, built as an installable PWA — FastAPI backend, React
-frontend. My "step outside pure ML and ship a full product" project.
+A personal finance tracker, built as an installable PWA (FastAPI backend,
+React frontend). My "step outside pure ML and ship a full product" project.
 
 **ai-application-assistant** *(private for now)*
-An AI tool that generates cold emails, SOPs, and cover letters for PhD/research
-applications — built with Next.js 15 and the Claude API.
+An AI tool that generates cold emails, SOPs, and cover letters for PhD and
+research applications, built with Next.js 15 and the Claude API.
 
 ---
 
 #### 🧪 Currently working on
 Extending the CT-based tumor detection work toward multimodal, explainable
-diagnostic AI — and prepping for PhD applications in the same space.
+diagnostic AI, and prepping for PhD applications in the same space.
 
 #### 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +47,7 @@ diagnostic AI — and prepping for PhD applications in the same space.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 📄 Publications & IP
-- *Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging* — IEEE Access, 2026
+- **[Deep Learning Framework for Breast Tumor Detection and Segmentation Using CT Imaging](https://doi.org/10.1109/ACCESS.2026.3691800)** — IEEE Access, vol. 14, 2026. First author. 84.6% precision, 90% recall, 0.839 Dice on a novel 9,330-image, 3-hospital CT dataset.
 - IP Application: *Deep Learning Application for Breast Cancer Diagnosis and Classification* (Reg. No. 58897-Copr., 2026)
 - 4 more papers in review/submission across clinical ML and imaging
 
