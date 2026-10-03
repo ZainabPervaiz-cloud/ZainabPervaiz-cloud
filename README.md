@@ -1,16 +1,12 @@
 ### Hi, I'm Zainab 👋
 
-I build AI systems for medical imaging, mostly breast cancer detection from CT
-scans and mammograms, and lately I've been building full products too, not
-just models in notebooks.
+I build AI systems for medical imaging, mostly for breast cancer detection, developing deep learning pipelines for medical imaging at clinical scale. Passionate about LLM, generative AI, agentic systems, deployments and turning research into real world-products.
 
 Currently an **AI Developer at Xylexa Inc.**, working on trustworthy diagnostic
 AI for radiological analysis. Before that, I was a Research Assistant at NUST's
 Computational Drug Design Lab, where a lot of the work below started.
 
-**🔬 What I actually do:** deep learning for medical imaging (CNNs, YOLO-based
-segmentation, explainable AI), plus the less glamorous half of the job: data
-pipelines, preprocessing, and getting a model from a notebook into something
+**🔬 What I actually do:** deep learning for medical imaging plus data pipelines, preprocessing, and getting a model from a notebook into something
 that actually deploys.
 
 ---
@@ -29,14 +25,14 @@ A personal finance tracker, built as an installable PWA (FastAPI backend,
 React frontend). My "step outside pure ML and ship a full product" project.
 
 **ai-application-assistant** *(private for now)*
-An AI tool that generates cold emails, SOPs, and cover letters for PhD and
+An AI tool that generates cold emails, SOPs, and cover letters for any job and
 research applications, built with Next.js 15 and the Claude API.
 
 ---
 
 #### 🧪 Currently working on
 Extending the CT-based tumor detection work toward multimodal, explainable
-diagnostic AI, and prepping for PhD applications in the same space.
+diagnostic AI, and developing cancer classification system.
 
 #### 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
